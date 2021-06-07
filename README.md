@@ -1,6 +1,6 @@
 # exams-students
 
-Run homework.py with python3
+Install python3
 
 Required libraries are: 
  1. pandas
@@ -11,4 +11,9 @@ To install them please run:
  - pip3 install pandas
  - pip3 install d6tjoin
  - pip3 install pytest
+
+
+Then run:
+
+python3 homework.py
 
