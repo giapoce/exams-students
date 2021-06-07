@@ -8,7 +8,7 @@ Required libraries are:
  3. d6tjoin
 
 To install them please run:
- pip3 install pandas
- pip3 install d6tjoin
- pip3 install pytest
+ - pip3 install pandas
+ - pip3 install d6tjoin
+ - pip3 install pytest
 
